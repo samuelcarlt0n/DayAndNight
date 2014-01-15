@@ -4,6 +4,9 @@ import sublime_plugin
 
 class DayAndNightCommand(sublime_plugin.WindowCommand):
     def run(self, time):
+        """
+        Time will be 'day' or 'night'
+        """
         user_settings = sublime.load_settings('Preferences.sublime-settings')
         plugin_default_settings = sublime.load_settings('DayAndNight.sublime-settings').get('day_and_night_defaults')
 
