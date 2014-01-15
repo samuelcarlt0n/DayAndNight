@@ -1,0 +1,19 @@
+{
+    "day_and_night_defaults": {
+        "day_color_scheme": "Packages/User/Dawn (SL).tmTheme",
+        "day_theme": "Soda Light 3.sublime-theme",
+
+        "night_color_scheme": "Packages/User/Tomorrow-Night-Eighties (SL).tmTheme",
+        "night_theme": "Soda Dark 3.sublime-theme"
+    },
+
+    "day_and_night": [{},
+        {
+            "day_color_scheme": "Packages/User/Tomorrow-Night-Eighties (SL).tmTheme",
+            "day_theme": "Soda Light 3.sublime-theme",
+
+            "night_color_scheme": "Packages/User/Tomorrow-Night-Eighties (SL).tmTheme",
+            "night_theme": "Soda Dark 3.sublime-theme"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+[
+    {
+        "caption": "DayAndNight: Day",
+        "command": "day_and_night",
+        "args": {"time": "day"}
+    },
+    {
+        "caption": "DayAndNight: Night",
+        "command": "day_and_night",
+        "args": {"time": "night"}
+    }
+]
